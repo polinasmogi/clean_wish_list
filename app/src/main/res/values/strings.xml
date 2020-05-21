@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clean Wish List</string>
+    <string name="no_wishes">No wishes, go and write one!</string>
+    <string name="i_want">I want...</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_wish">Create a wish</string>
+</resources>
